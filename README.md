@@ -12,4 +12,5 @@
 1. `./file_out.sh`
 2. `./marker_all.sh`
 3. `python3 scritps/data_extraction.py`
+   
 注意，由于这个是随手写的，并没有做健壮性工作，所以注意路径的正确性以及文件结构的正确性。
